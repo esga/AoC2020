@@ -1,3 +1,4 @@
+#day 11, 1st part
 fi=open("input11.txt", "r")
 txt=fi.read()
 fi.close()
